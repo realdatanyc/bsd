@@ -13,3 +13,5 @@
 [History - Craig McKusick](http://www.mckusick.com/history/)
 
 [Forums](https://forums.freebsd.org/)
+
+[FreeBSD for Makers](https://freebsdfoundation.org/past-issues/freebsd-for-makers/)
