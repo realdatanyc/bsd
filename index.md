@@ -12,4 +12,4 @@
 
 [History - Craig McKusick](http://www.mckusick.com/history/)
 
-[Forums] (https://forums.freebsd.org/)
+[Forums](https://forums.freebsd.org/)
