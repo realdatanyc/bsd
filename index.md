@@ -11,3 +11,5 @@
 [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
 
 [History - Craig McKusick](http://www.mckusick.com/history/)
+
+[Forums] (https://forums.freebsd.org/)
