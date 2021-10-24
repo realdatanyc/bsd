@@ -18,4 +18,4 @@
 
 [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/browser-based-edition/)
 
-[FreeBSD, The Other Unix-Like Operating System and Why You Should Get Involved!](https://youtu.be/w6oGeTm95no)
+[VIDEO - FreeBSD, The Other Unix-Like Operating System and Why You Should Get Involved!](https://youtu.be/w6oGeTm95no)
